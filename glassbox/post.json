@@ -1,0 +1,126 @@
+{
+  "slug": "editclear",
+  "box": 65,
+  "question": "How does film editing work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/editclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/editclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "A century and more from a jammed camera in Paris to editing a Hollywood epic on a Mac.\n\n1903: The Great Train Robbery\n1920: The Kuleshov experiment\n1924: The Moviola\n1925: Battleship Potemkin and the Odessa Steps\n1960: Breathless and the jump cut\n1971: The first non-linear editor\n\nThe full story, with 27 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/editclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/editclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #filmediting #editing #videoediting #cut #timeline #continuityediting #history",
+      "youtube": {
+        "title": "The history of film editing in 45 seconds #shorts",
+        "description": "A century and more from a jammed camera in Paris to editing a Hollywood epic on a Mac.\n\n1903 · The Great Train Robbery (Edwin S. Porter, Edison Manufacturing Company)\n1920 · The Kuleshov experiment (Lev Kuleshov, with actor Ivan Mosjoukine)\n1924 · The Moviola (Iwan Serrurier)\n1925 · Battleship Potemkin and the Odessa Steps (Sergei Eisenstein)\n1960 · Breathless and the jump cut (Jean-Luc Godard, editor Cécile Decugis)\n1971 · The first non-linear editor (CMX Systems (CBS and Memorex))\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/editclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/editclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does film editing work?\n\nThree cameras filmed the same café scene. Cut it yourself on a live timeline, drag a cut on an opening door until it jumps, put the same blank face next to soup or a coffin, and speed a scene up from 10-second shots to 1.5.\n\n→ Three cameras filmed the same moment. The editor picks which one you see.\n→ A cut takes no time at all, and it hides best when a new person starts to speak.\n→ Cut in the middle of a movement and the eye follows it straight across the cut.\n→ Cross the 180-degree line and two people who face each other seem to look away.\n→ The same blank face, cut next to a bowl of soup: viewers say he looks hungry.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/editclear (link in bio)\n\nBox No. 065 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #filmediting #editing #videoediting #cut #timeline #continuityediting #180degreerule #matchcut #jumpcut",
+    "carousel": "Swipe through: How does film editing work?\n\nThree cameras filmed the same café scene. Cut it yourself on a live timeline, drag a cut on an opening door until it jumps, put the same blank face next to soup or a coffin, and speed a scene up from 10-second shots to 1.5.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/editclear (link in bio).\n\nBox No. 065 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #filmediting #editing #videoediting #cut #timeline #continuityediting",
+    "youtube": {
+      "title": "How does film editing work? #shorts",
+      "description": "Three cameras filmed the same café scene. Cut it yourself on a live timeline, drag a cut on an opening door until it jumps, put the same blank face next to soup or a coffin, and speed a scene up from 10-second shots to 1.5.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/editclear/\n⌘ Source code (MIT): https://github.com/bdeeps/editclear\n\nBox No. 065 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does film editing work? (interactive explainer)",
+      "description": "Three cameras filmed the same café scene. Cut it yourself on a live timeline, drag a cut on an opening door until it jumps, put the same blank face next to soup or a coffin, and speed a scene up from 10-second shots to 1.5.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/editclear/\n⌘ Source code (MIT): https://github.com/bdeeps/editclear\n\nIn this video:\n• Choosing what you see. A scene is filmed from several set-ups, like a wide shot and two close-ups.\n• Hiding the cut. Continuity editing keeps time and space flowing: cut in the middle of a movement, show someone looking and then what they see, match shapes, keep cameras on one side of the 180° line.\n• Meaning from the join. In Kuleshov's famous experiment the same blank face seemed hungry next to soup and grieving next to a coffin.\n• Pace and sound. Hollywood's average shot fell from about 10.5 seconds (1930 to 1955) to about 4.3 seconds (1990 to 2015), and many action films cut every 2 to 4 seconds.\n• Transitions. Most joins are cuts, so the rarer transitions carry a message.\n• From dailies to picture lock. Editors watch the dailies, build an assembly, then a rough and a fine cut until picture lock.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does film editing work?\n\nThree cameras filmed the same café scene.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/editclear/",
+    "linkedin": "How does film editing work?\n\nThree cameras filmed the same café scene. Cut it yourself on a live timeline, drag a cut on an opening door until it jumps, put the same blank face next to soup or a coffin, and speed a scene up from 10-second shots to 1.5.\n\n1. Choosing what you see\n2. Hiding the cut\n3. Meaning from the join\n4. Pace and sound\n5. Transitions\n6. From dailies to picture lock\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 065 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/editclear/\nCode: https://github.com/bdeeps/editclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T03:21:25.689Z"
+}

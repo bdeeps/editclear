@@ -1,0 +1,844 @@
+{
+  "title": "The history of film editing",
+  "tagline": "A century and more from a jammed camera in Paris to editing a Hollywood epic on a Mac.",
+  "intro": "The first films were single shots. Within a few years, film-makers found that cutting between shots could leap across space and time, build suspense and even create feelings that were in no single shot. Machines like the Moviola and the flatbed made cutting precise, rebels like Godard broke the rules on purpose, and computers finally let editors change any cut in seconds.",
+  "eras": [
+    {
+      "id": "early",
+      "name": "Discovering the cut",
+      "from": 1895,
+      "to": 1917,
+      "color": "#c49bff",
+      "summary": "Film-makers learn that shots can be joined: close-ups, dissolves, action across cuts and cross-cutting for suspense."
+    },
+    {
+      "id": "montage",
+      "name": "Montage",
+      "from": 1918,
+      "to": 1929,
+      "color": "#ffb547",
+      "summary": "Soviet film-makers turn editing into a theory of meaning, while Hollywood gets its first editing machine."
+    },
+    {
+      "id": "classical",
+      "name": "Invisible editing",
+      "from": 1930,
+      "to": 1959,
+      "color": "#ff7a59",
+      "summary": "Sound films and studio systems perfect continuity editing, cut on Moviolas and flatbed tables."
+    },
+    {
+      "id": "new",
+      "name": "Breaking the rules",
+      "from": 1960,
+      "to": 1988,
+      "color": "#5ce1a9",
+      "summary": "New waves make cuts visible on purpose, and the first computer editors appear."
+    },
+    {
+      "id": "digital",
+      "name": "The digital cutting room",
+      "from": 1989,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Avid, Premiere, Final Cut and others replace film benches, and editing reaches every laptop and phone."
+    }
+  ],
+  "events": [
+    {
+      "year": 1896,
+      "date": "c. 1896",
+      "era": "early",
+      "art": "scissors",
+      "title": "A camera jams, and a trick is born",
+      "who": "Georges Méliès",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Méliès said his camera jammed while filming a Paris street. When he projected the film, a bus seemed to turn into a hearse. He began stopping the camera and splicing film on purpose to make things appear and vanish.",
+      "why": "It showed that film could be cut and joined to change what the audience believes they saw.",
+      "box": "transitions",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "1900",
+      "era": "early",
+      "art": "lens",
+      "title": "A close-up cut into a scene",
+      "who": "George Albert Smith",
+      "where": "Brighton, England",
+      "country": "United Kingdom",
+      "text": "In Grandma's Reading Glass, a boy looks through a magnifying glass, and Smith cuts to big circular close-ups of what he sees: a watch, a canary, his grandmother's eye.",
+      "why": "It is one of the earliest films to cut between a wide shot and close-ups from a character's point of view.",
+      "box": "continuity",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1901",
+      "era": "early",
+      "art": "flame",
+      "title": "A rescue that carries across the cuts",
+      "who": "James Williamson",
+      "where": "Brighton, England",
+      "country": "United Kingdom",
+      "text": "Fire! follows a fire from the street to a burning bedroom and back outside, across several shots. A firefighter carries a rescued person out of one shot and into the next.",
+      "why": "It showed how action can carry on across a cut, the seed of continuity editing.",
+      "box": "continuity",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "1902",
+      "era": "early",
+      "art": "rocket",
+      "title": "Dissolves join the scenes",
+      "who": "Georges Méliès",
+      "where": "Montreuil, France",
+      "country": "France",
+      "text": "A Trip to the Moon links its scenes with dissolves, one picture melting into the next, as its scientists fly to the Moon and back.",
+      "why": "It made the dissolve part of cinema's grammar long before editing machines existed.",
+      "box": "transitions",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "December 1903",
+      "era": "early",
+      "art": "filmreel",
+      "key": true,
+      "title": "The Great Train Robbery",
+      "who": "Edwin S. Porter, Edison Manufacturing Company",
+      "where": "New Jersey, USA",
+      "country": "United States",
+      "text": "Porter's 12-minute western tells its story in about 14 shots, cutting between the robbers, the train and the telegraph office. It was a huge hit in the new nickelodeon theatres.",
+      "why": "Cutting between places that are far apart helped audiences learn to follow a story told in separate shots.",
+      "box": "cut",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909",
+      "era": "early",
+      "art": "clapper",
+      "title": "Cross-cutting builds suspense",
+      "who": "D. W. Griffith, Biograph",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "In The Lonely Villa, robbers break into a house while the father races home. Griffith cuts back and forth between them, faster and faster, until the rescue.",
+      "why": "Cross-cutting between two lines of action became one of the most powerful tools for suspense.",
+      "box": "cut",
+      "sources": [
+        7,
+        6
+      ]
+    },
+    {
+      "year": 1916,
+      "date": "1916",
+      "era": "early",
+      "art": "film",
+      "title": "Four stories, 2,500 years apart",
+      "who": "D. W. Griffith",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "Intolerance cuts between four stories set in ancient Babylon, the time of Jesus, 16th-century France and modern America, building all four towards their climaxes together.",
+      "why": "It pushed cross-cutting further than anyone before and deeply influenced Soviet film-makers.",
+      "sources": [
+        8,
+        6
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "c. 1918–1921",
+      "era": "montage",
+      "art": "eye",
+      "key": true,
+      "title": "The Kuleshov experiment",
+      "who": "Lev Kuleshov, with actor Ivan Mosjoukine",
+      "where": "Moscow, Russia",
+      "country": "Russia",
+      "text": "Kuleshov is said to have cut the same expressionless close-up next to shots of a bowl of soup, a girl in a coffin and a woman on a divan. As Pudovkin told it, viewers praised the actor's hunger, grief and desire. No footage survives.",
+      "why": "It suggested that meaning comes from how shots are joined, not only from what is in them. Modern studies find a real but modest effect.",
+      "box": "kuleshov",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924",
+      "era": "montage",
+      "art": "projector",
+      "key": true,
+      "title": "The Moviola",
+      "who": "Iwan Serrurier",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "Serrurier turned his home movie projector into an upright editing machine with a small viewer. The first one went to Douglas Fairbanks's studio.",
+      "why": "Editors could now watch film at any speed and find the exact frame to cut. Moviolas stayed the Hollywood standard until the 1970s.",
+      "box": "workflow",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "December 1925",
+      "era": "montage",
+      "art": "cinema",
+      "key": true,
+      "title": "Battleship Potemkin and the Odessa Steps",
+      "who": "Sergei Eisenstein",
+      "where": "Moscow, USSR",
+      "country": "USSR",
+      "text": "Eisenstein's film about a 1905 naval mutiny cuts together hundreds of short shots. In the Odessa Steps sequence, soldiers march down a long flight of steps into a fleeing crowd, and the editing stretches a few moments of terror into minutes.",
+      "why": "It became the most studied example of montage: meaning and emotion made by shots colliding.",
+      "box": "kuleshov",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1927",
+      "era": "montage",
+      "art": "filmreel",
+      "title": "A film made only from old footage",
+      "who": "Esfir Shub",
+      "where": "Moscow, USSR",
+      "country": "USSR",
+      "text": "Shub searched archives for old newsreels and home movies of the Russian royal family and edited them into The Fall of the Romanov Dynasty.",
+      "why": "She showed that an editor can create a new story from footage shot by others, the root of the compilation documentary.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "1929",
+      "era": "montage",
+      "art": "aperture",
+      "title": "Man with a Movie Camera",
+      "who": "Dziga Vertov and editor Elizaveta Svilova",
+      "where": "Kyiv, Odesa and Moscow, USSR",
+      "country": "USSR",
+      "text": "A city symphony with no story and no actors, built from thousands of shots, with fast cutting, split screens and freeze frames. Svilova, the editor, even appears in the film at her editing bench.",
+      "why": "It shows off almost every editing trick of the silent era in one film.",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1930s",
+      "era": "classical",
+      "art": "gear",
+      "title": "Flatbed editing tables",
+      "who": "Steenbeck and KEM",
+      "where": "Hamburg, Germany",
+      "country": "Germany",
+      "text": "German companies built editing tables that lay the film flat on spinning plates, with a screen and separate picture and sound tracks. They came into wide use in the United States in the 1970s.",
+      "why": "Flatbeds made it easy to run picture and sound together, forwards and back, and became the classic editing bench.",
+      "box": "workflow",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953",
+      "era": "classical",
+      "art": "scissors",
+      "title": "An editor who became a great director",
+      "who": "Hrishikesh Mukherjee",
+      "where": "Bombay, India",
+      "country": "India",
+      "text": "Mukherjee edited Bimal Roy's Do Bigha Zamin, a landmark of Indian realist cinema, before going on to direct films such as Anand.",
+      "why": "Indian cinema has long drawn directors from the editing room, where they learn how scenes really work.",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "March 1960",
+      "era": "new",
+      "art": "scissors",
+      "key": true,
+      "title": "Breathless and the jump cut",
+      "who": "Jean-Luc Godard, editor Cécile Decugis",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Godard's first feature cut chunks out of continuous shots, so the characters seem to jump forward in time. Mainstream editors had worked hard to hide such cuts.",
+      "why": "It made the jump cut a deliberate style. Today it is everywhere, from music videos to vlogs.",
+      "box": "continuity",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "new",
+      "art": "studio",
+      "title": "A matchstick becomes a desert sunrise",
+      "who": "Anne V. Coates, for David Lean",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "In Lawrence of Arabia, Lawrence blows out a match and the film cuts straight to the sun rising over the desert. Coates won the Academy Award for editing.",
+      "why": "It became one of the most admired match cuts in film.",
+      "box": "continuity",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "new",
+      "art": "rocket",
+      "title": "From a bone to a spacecraft",
+      "who": "Stanley Kubrick, editor Ray Lovejoy",
+      "where": "Borehamwood, England",
+      "country": "United Kingdom",
+      "text": "In 2001: A Space Odyssey, an early human throws a bone into the air, and a match cut turns it into a satellite in orbit, jumping millions of years in one frame.",
+      "why": "It showed how a single match cut can carry a huge leap in time and meaning.",
+      "box": "continuity",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1971",
+      "era": "new",
+      "art": "chip",
+      "key": true,
+      "title": "The first non-linear editor",
+      "who": "CMX Systems (CBS and Memorex)",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "The CMX 600 stored video on disk drives the size of washing machines, holding about half an hour of footage, and let editors jump to any shot instantly.",
+      "why": "It was the first step towards editing on computers, where you can change any cut without re-splicing everything after it.",
+      "box": "workflow",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "new",
+      "art": "digital",
+      "title": "EditDroid",
+      "who": "Lucasfilm and The Droid Works",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "EditDroid used LaserDiscs and a computer to find shots quickly, with an early on-screen timeline. It was shown at the NAB trade show in 1984 but sold only a few systems.",
+      "why": "Many of its ideas, like the timeline, returned in later digital editors.",
+      "sources": [
+        25,
+        23
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "1989",
+      "era": "digital",
+      "art": "pixels",
+      "key": true,
+      "title": "Avid Media Composer",
+      "who": "Avid Technology",
+      "where": "Massachusetts, USA",
+      "country": "United States",
+      "text": "Avid showed its computer editing system in 1989. Editors could cut with digitised copies of the footage, then send a list of their decisions to finish the film.",
+      "why": "Media Composer became the standard for feature films and TV, and it still is in many cutting rooms.",
+      "box": "workflow",
+      "sources": [
+        26,
+        27,
+        23
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "for Parinda (1989)",
+      "era": "digital",
+      "art": "trophy",
+      "key": true,
+      "title": "Renu Saluja's first National Award",
+      "who": "Renu Saluja",
+      "where": "Bombay, India",
+      "country": "India",
+      "text": "Saluja, a Film and Television Institute of India graduate, won the National Film Award for editing for Parinda, then again for Dharavi, Sardar and Godmother. She also cut Jaane Bhi Do Yaaro and 1942: A Love Story.",
+      "why": "She became one of Indian cinema's most respected editors when the job was mostly done by men. An editing award is now named after her.",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "December 1991",
+      "era": "digital",
+      "art": "digital",
+      "title": "Editing comes to the desktop",
+      "who": "Adobe",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Adobe Premiere let people edit video on an ordinary Apple Macintosh computer. Today's Premiere Pro is used for everything from YouTube videos to feature films.",
+      "why": "Editing software stopped being only for studios.",
+      "box": "cut",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "digital",
+      "art": "eye",
+      "key": true,
+      "title": "In the Blink of an Eye",
+      "who": "Walter Murch",
+      "where": "San Francisco, USA",
+      "country": "United States",
+      "text": "Murch's short book on editing asks why cuts work at all, and sets out his Rule of Six: emotion 51%, story 23%, rhythm 10%, eye-trace 7%, the screen's 2D plane 5% and 3D space 4%.",
+      "why": "It is still one of the most read books on editing.",
+      "box": "continuity",
+      "sources": [
+        31,
+        40
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "March 1997",
+      "era": "digital",
+      "art": "trophy",
+      "title": "A digital edit wins the Oscar",
+      "who": "Walter Murch",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "Murch's edit of The English Patient, cut on an Avid, won the Academy Award for Best Film Editing.",
+      "why": "It was the first digitally edited film to win that Oscar, and the switch from film benches to computers sped up.",
+      "sources": [
+        33,
+        32
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "April 1999",
+      "era": "digital",
+      "art": "digital",
+      "title": "Final Cut Pro",
+      "who": "Apple",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Apple released Final Cut Pro, an editor that ran on an ordinary Mac and cost far less than professional systems.",
+      "why": "Film students and independent film-makers could now edit professionally at home.",
+      "sources": [
+        34,
+        23
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003",
+      "era": "digital",
+      "art": "filmreel",
+      "key": true,
+      "title": "Cold Mountain is cut on a Mac",
+      "who": "Walter Murch, for Anthony Minghella",
+      "where": "London, England and USA",
+      "country": "United Kingdom",
+      "text": "Murch and his assistant edited 597,000 feet of film for Cold Mountain on Final Cut Pro, the first major Hollywood feature cut on it.",
+      "why": "It proved that affordable desktop software could handle a big studio film.",
+      "box": "workflow",
+      "sources": [
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "1989–2022",
+      "era": "digital",
+      "art": "scissors",
+      "key": true,
+      "title": "A. Sreekar Prasad, editor in 17 languages",
+      "who": "A. Sreekar Prasad",
+      "where": "Chennai, India",
+      "country": "India",
+      "text": "Prasad has won National Awards for editing many times since 1989 and has cut films in 17 languages, from Dil Chahta Hai and Kannathil Muthamittal to RRR (2022).",
+      "why": "His career shows how one editor can shape films across India's many languages.",
+      "box": "workflow",
+      "sources": [
+        37
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Close-ups cut into a scene",
+      "value": "1900",
+      "who": "George Albert Smith, England"
+    },
+    {
+      "label": "Cross-cutting for suspense",
+      "value": "1909",
+      "who": "D. W. Griffith, USA"
+    },
+    {
+      "label": "Upright editing machine (Moviola)",
+      "value": "1924",
+      "who": "Iwan Serrurier, USA"
+    },
+    {
+      "label": "Non-linear editor (CMX 600)",
+      "value": "1971",
+      "who": "CMX Systems, USA"
+    },
+    {
+      "label": "Digital edit to win the editing Oscar",
+      "value": "1997",
+      "who": "Walter Murch, The English Patient"
+    },
+    {
+      "label": "Major Hollywood film cut on Final Cut Pro",
+      "value": "2003",
+      "who": "Walter Murch, Cold Mountain"
+    }
+  ],
+  "people": [
+    {
+      "name": "Georges Méliès",
+      "life": "1861 – 1938",
+      "role": "Magician and film-maker",
+      "from": "France",
+      "note": "Turned splicing and dissolves into movie magic."
+    },
+    {
+      "name": "D. W. Griffith",
+      "life": "1875 – 1948",
+      "role": "Director",
+      "from": "USA",
+      "note": "Made cross-cutting a tool for suspense."
+    },
+    {
+      "name": "Lev Kuleshov",
+      "life": "1899 – 1970",
+      "role": "Film-maker and teacher",
+      "from": "Russia",
+      "note": "Showed that the cut itself can create meaning."
+    },
+    {
+      "name": "Sergei Eisenstein",
+      "life": "1898 – 1948",
+      "role": "Director and theorist",
+      "from": "Latvia and Russia",
+      "note": "Built a theory of montage as shots colliding."
+    },
+    {
+      "name": "Esfir Shub",
+      "life": "1894 – 1959",
+      "role": "Editor and director",
+      "from": "Russian Empire and USSR",
+      "note": "Invented the compilation film from archive footage."
+    },
+    {
+      "name": "Anne V. Coates",
+      "life": "1925 – 2018",
+      "role": "Editor",
+      "from": "England",
+      "note": "Cut Lawrence of Arabia and won the Oscar."
+    },
+    {
+      "name": "Walter Murch",
+      "life": "born 1943",
+      "role": "Editor and sound designer",
+      "from": "USA",
+      "note": "Wrote In the Blink of an Eye and led editing onto computers."
+    },
+    {
+      "name": "Renu Saluja",
+      "life": "1952 – 2000",
+      "role": "Editor",
+      "from": "India",
+      "note": "Four National Awards for editing, including Parinda."
+    },
+    {
+      "name": "A. Sreekar Prasad",
+      "life": "born 1963",
+      "role": "Editor",
+      "from": "India",
+      "note": "Many National Awards, and films in 17 languages."
+    }
+  ],
+  "series": [
+    {
+      "id": "asl",
+      "title": "How long a shot lasts in popular films",
+      "unit": "seconds",
+      "log": false,
+      "after": "digital",
+      "caption": "Average shot duration in English-language popular films, by period, from James Cutting's 2016 study. Films now cut more than twice as often as in the early sound era.",
+      "points": [
+        {
+          "year": 1920,
+          "value": 7.5,
+          "label": "Silent films, 1915 to 1925: 7.5 s"
+        },
+        {
+          "year": 1943,
+          "value": 10.5,
+          "label": "Early sound films, 1930 to 1955: 10.5 s"
+        },
+        {
+          "year": 1973,
+          "value": 7.0,
+          "label": "1960 to 1985: 7.0 s"
+        },
+        {
+          "year": 2003,
+          "value": 4.3,
+          "label": "1990 to 2015: 4.3 s"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "In Kuleshov's experiment the actor's face was the same shot every time, yet viewers said he looked hungry, sad or loving.",
+    "Walter Murch's Rule of Six ranks emotion at 51%, far above keeping the 180-degree line, which gets just 5%.",
+    "Cold Mountain's editors worked through 597,000 feet of film, about 110 hours of footage at 24 frames a second.",
+    "At the pace of films from 1990 to 2015, about 4.3 seconds a shot, a two-hour film holds around 1,700 shots."
+  ],
+  "sources": [
+    {
+      "title": "Georges Méliès",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s"
+    },
+    {
+      "title": "A Trip to the Moon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Trip_to_the_Moon"
+    },
+    {
+      "title": "Grandma's Reading Glass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grandma%27s_Reading_Glass"
+    },
+    {
+      "title": "Fire! (1901 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fire!_(1901_film)"
+    },
+    {
+      "title": "The Great Train Robbery (1903 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Train_Robbery_(1903_film)"
+    },
+    {
+      "title": "The Great Train Robbery: National Film Registry",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/"
+    },
+    {
+      "title": "D. W. Griffith",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/D._W._Griffith"
+    },
+    {
+      "title": "The Lonely Villa",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Lonely_Villa"
+    },
+    {
+      "title": "Intolerance (film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intolerance_(film)"
+    },
+    {
+      "title": "Kuleshov effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kuleshov_effect"
+    },
+    {
+      "title": "Barratt et al., Does the Kuleshov Effect Really Exist? (2016)",
+      "publisher": "Perception 45(8), SAGE Journals",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0301006616638595"
+    },
+    {
+      "title": "Moviola",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moviola"
+    },
+    {
+      "title": "Battleship Potemkin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Battleship_Potemkin"
+    },
+    {
+      "title": "Soviet montage theory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soviet_montage_theory"
+    },
+    {
+      "title": "Esfir Shub",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Esfir_Shub"
+    },
+    {
+      "title": "Man with a Movie Camera",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Man_with_a_Movie_Camera"
+    },
+    {
+      "title": "Flatbed editor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flatbed_editor"
+    },
+    {
+      "title": "Steenbeck",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steenbeck"
+    },
+    {
+      "title": "Hrishikesh Mukherjee",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hrishikesh_Mukherjee"
+    },
+    {
+      "title": "Breathless (1960 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Breathless_(1960_film)"
+    },
+    {
+      "title": "Jump cut",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jump_cut"
+    },
+    {
+      "title": "Anne V. Coates",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anne_V._Coates"
+    },
+    {
+      "title": "Match cut",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Match_cut"
+    },
+    {
+      "title": "Non-linear editing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Non-linear_editing"
+    },
+    {
+      "title": "CMX Systems",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/CMX_Systems"
+    },
+    {
+      "title": "EditDroid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/EditDroid"
+    },
+    {
+      "title": "Media Composer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Media_Composer"
+    },
+    {
+      "title": "Avid Technology",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Avid_Technology"
+    },
+    {
+      "title": "Renu Saluja",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renu_Saluja"
+    },
+    {
+      "title": "National Film Award for Best Editing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Film_Award_for_Best_Editing"
+    },
+    {
+      "title": "Adobe Premiere Pro",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Premiere_Pro"
+    },
+    {
+      "title": "In the Blink of an Eye (Murch book)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/In_the_Blink_of_an_Eye_(Murch_book)"
+    },
+    {
+      "title": "Academy Award for Best Film Editing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Film_Editing"
+    },
+    {
+      "title": "The English Patient (film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_English_Patient_(film)"
+    },
+    {
+      "title": "Final Cut Pro",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Final_Cut_Pro"
+    },
+    {
+      "title": "Edit This! Cold Mountain's Final Cut",
+      "publisher": "Post Magazine, December 2003",
+      "url": "https://www.postmagazine.com/Publications/Post-Magazine/2003/December-1-2003/EDIT-THIS-COLD-MOUNTAINS-FINAL-CUT.aspx"
+    },
+    {
+      "title": "Behind the Seen: How Walter Murch Edited Cold Mountain Using Apple's Final Cut Pro",
+      "publisher": "Charles Koppelman, New Riders / Peachpit, 2004",
+      "url": "https://www.peachpit.com/store/behind-the-seen-how-walter-murch-edited-cold-mountain-9780735714267"
+    },
+    {
+      "title": "A. Sreekar Prasad",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A._Sreekar_Prasad"
+    },
+    {
+      "title": "Cutting, The evolution of pace in popular movies (2016)",
+      "publisher": "Cognitive Research: Principles and Implications / PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5256470/"
+    },
+    {
+      "title": "Post-classical editing (on Bordwell, Intensified Continuity, 2002)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Post-classical_editing"
+    },
+    {
+      "title": "Walter Murch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Walter_Murch"
+    }
+  ]
+}

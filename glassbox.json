@@ -1,0 +1,128 @@
+{
+  "slug": "editclear",
+  "box": 65,
+  "date": "2026-10-23",
+  "title": "EditClear",
+  "question": "How does film editing work?",
+  "hook": "Three cameras filmed the same café scene. Cut it yourself on a live timeline, drag a cut on an opening door until it jumps, put the same blank face next to soup or a coffin, and speed a scene up from 10-second shots to 1.5.",
+  "thumbText": "HOW FILM EDITING WORKS",
+  "field": "film",
+  "minutes": 14,
+  "tags": [
+    "film editing",
+    "editing",
+    "video editing",
+    "cut",
+    "timeline",
+    "continuity editing",
+    "180 degree rule",
+    "match cut",
+    "jump cut",
+    "cut on action",
+    "eyeline match",
+    "Kuleshov effect",
+    "montage",
+    "Eisenstein",
+    "average shot length",
+    "J-cut",
+    "L-cut",
+    "dissolve",
+    "fade",
+    "wipe",
+    "smash cut",
+    "picture lock",
+    "EDL",
+    "proxy",
+    "Walter Murch",
+    "Rule of Six",
+    "Avid",
+    "Premiere Pro",
+    "DaVinci Resolve",
+    "Final Cut Pro",
+    "Indian cinema",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Choosing what you see",
+      "text": "A scene is filmed from several set-ups, like a wide shot and two close-ups. The editor lays shots end to end on a timeline and decides, moment by moment, which one you watch. A cut takes no time: one frame is the old shot, the next is the new one."
+    },
+    {
+      "title": "Hiding the cut",
+      "text": "Continuity editing keeps time and space flowing: cut in the middle of a movement, show someone looking and then what they see, match shapes, keep cameras on one side of the 180° line. Break a rule, like Breathless's jump cuts in 1960, and the cut suddenly shows."
+    },
+    {
+      "title": "Meaning from the join",
+      "text": "In Kuleshov's famous experiment the same blank face seemed hungry next to soup and grieving next to a coffin. Eisenstein built a theory of montage on the idea that shots collide to make meaning. Modern studies find a real but modest effect."
+    },
+    {
+      "title": "Pace and sound",
+      "text": "Hollywood's average shot fell from about 10.5 seconds (1930 to 1955) to about 4.3 seconds (1990 to 2015), and many action films cut every 2 to 4 seconds. In J-cuts and L-cuts the sound changes before or after the picture, which makes conversations flow."
+    },
+    {
+      "title": "Transitions",
+      "text": "Most joins are cuts, so the rarer transitions carry a message. A dissolve says time has passed, a fade ends a section, a wipe says meanwhile, and a smash cut jolts from quiet to loud. A montage squeezes hours into seconds."
+    },
+    {
+      "title": "From dailies to picture lock",
+      "text": "Editors watch the dailies, build an assembly, then a rough and a fine cut until picture lock. They cut with small proxies, then the edit decision list lets the online stage rebuild the film from the huge camera files, add VFX, grade and mix. Indian films are also shaped around an interval and songs."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Cut",
+      "def": "An instant change from one shot to the next."
+    },
+    {
+      "term": "Timeline",
+      "def": "The editor's workspace: shots laid end to end on picture and sound tracks."
+    },
+    {
+      "term": "Continuity editing",
+      "def": "Cutting so that time, space and action seem to flow on without a break."
+    },
+    {
+      "term": "180° rule",
+      "def": "Keep the camera on one side of the line between two people so they keep their sides of the screen."
+    },
+    {
+      "term": "Jump cut",
+      "def": "A cut that removes time from one shot, so things seem to leap."
+    },
+    {
+      "term": "Kuleshov effect",
+      "def": "Viewers read different feelings into the same face depending on the shot next to it."
+    },
+    {
+      "term": "Average shot length",
+      "def": "Running time divided by the number of shots."
+    },
+    {
+      "term": "J-cut and L-cut",
+      "def": "Split edits where the sound changes before (J) or after (L) the picture."
+    },
+    {
+      "term": "Picture lock",
+      "def": "The point where the edit is final and the film moves on to VFX, grading and the sound mix."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "editclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
